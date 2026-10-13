@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.1.1"
 
 package:
   name: ctypes-dlpack
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/ctypes-dlpack/ctypes_dlpack-${{ version }}.tar.gz
-  sha256: a1f8811e761f05bc28aa60cab2674afe4f6c7242255987214776cfc04c605132
+  sha256: 0fd91cf7eb69a40a4ebabfd2000cc8c100dbde574273f35a841c3446cd6dbe07
 
 build:
   number: 0
